@@ -1,0 +1,5 @@
+1)npm init for the installation of the packages 
+
+2) npm i express
+3) we install nodemon 
+4) we install dotenv 
